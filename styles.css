@@ -25,10 +25,14 @@ ul li {
   list-style: none;
 }
 
-nav a {
+nav {
   float: right;
-  color: white;
   padding: 8px;
+}
+
+nav a {
+  color: white;
+  margin-right: 8px;
   font-weight: 900;
   text-transform: uppercase;
 }
